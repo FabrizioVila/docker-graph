@@ -71,3 +71,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+📝 Convención de mensajes de commit
+
+🚀 Nuevo feature (MINOR)
+feat: agrega endpoint para listar usuarios
+
+🐞 Corrección de bug (PATCH)
+fix: corrige validación de email en registro
+
+
+💥 Cambio incompatible (MAJOR)
+major: elimina soporte para versiones antiguas de autenticación
+
+📝 Cambios en la documentación
+docs: actualiza ejemplos de uso en el README
+
+🛠️ Mantenimiento (chore)
+chore: actualiza dependencias y limpia scripts obsoletos
